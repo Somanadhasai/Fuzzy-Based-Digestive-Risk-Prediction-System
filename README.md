@@ -66,9 +66,8 @@ Includes:
 
 ##  Author
 
-**Addepalli Somanadha Sai Sai**  
+**Addepalli Somanadha  Sai**  
 Department of Computer Science and Engineering  
-Email: yourmail@example.com
 
 ##  License
 
